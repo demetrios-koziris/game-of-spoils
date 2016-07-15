@@ -7,7 +7,7 @@
 https://chrome.google.com/webstore/detail/gameofspoils-game-of-thro/ipjhpmdippbajafafidlinjjmfkdamci?hl=en
 
 
-### How to get setup
+### How to setup
 1. Clone the repo.
 2. Run `npm install` to install dependencies.
 3. Run `gulp` to setup watches that will automatically compile any changes you make from the `src` dir to the `build` directory.
